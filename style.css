@@ -1,0 +1,39 @@
+#listFilmes{
+list-style-type: none;
+
+}
+body{
+margin-left: 1px;
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 0.2px;
+
+font-size: 24px;
+
+}
+p{
+    text-align: justify;
+}
+#foto{
+    float:left;
+    margin-right:-25px;
+
+    margin-left: -35px;
+    margin-bottom: -20px;
+}
+#foto figure img{
+width: 250px;
+height: 250px;
+}
+#texto,#foto{
+margin-top: -30px;
+}
+h4{
+    margin-bottom: 15px;
+}
+#texto{
+margin-top:-15px;
+
+}
+#autor{
+    text-align: right;
+}
